@@ -1,8 +1,5 @@
 body {
     background-color: black;
-}
-
-p {
-    color:antiquewhite;
-    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
 }
